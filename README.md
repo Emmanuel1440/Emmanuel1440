@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm 👋 EMMANUEL   WANJALA</h1>
+<h3 align="center">🚀 Software Engineering Student | Front-End Developer | UI/UX Enthusiast</h3>
 
-<!--
-**Emmanuel1440/Emmanuel1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Passionate about crafting seamless, interactive, and visually appealing  responsive web experiences.  
+💡 I love turning complex problems into **elegant, user-friendly solutions**.  
+🎯 Currently diving deeper into **React.js, PHP, API integrations, and full-stack development**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tech Stack & Skills**
+🔹 **Languages:** JavaScript (ES6+), PHP, HTML, CSS/SASS  
+🔹 **Front-End:** React.js, Bootstrap, TailwindCSS, UI/UX Design  
+🔹 **Back-End:** Node.js, PHP, MySQL, API Development  
+🔹 **Tools & Platforms:** Git/GitHub, VS Code, Figma, Postman  
+🔹 **Currently Exploring:** Next.js, TypeScript, Progressive Web Apps  
+
+---
+
+## 🚀 **Projects & Work**
+💼 **Delta Hotel Management System** – A full-stack hotel booking system with PHP & MySQL  
+🎨 **Interactive Portfolio Website** – Showcasing my UI/UX and front-end projects  
+⚡ **More cool projects coming soon...**  
+
+Check out my repositories! 📂  
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel1440&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel1440&theme=radical" height="165"/>
+</p>
+
+---
+
+## 📫 **Let's Connect & Collaborate**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231E90FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+
+---
+
+🚀 **"Building the web, one pixel at a time."**  
+⭐ If you like my work, drop a **star** on my repositories!  
