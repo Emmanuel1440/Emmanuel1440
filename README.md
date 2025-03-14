@@ -22,7 +22,7 @@
 ⚡ **More cool projects coming soon...**  
 
 Check out my repositories! 📂  
-
+ [View on GitHub](https://github.com/Emmanuel1440/Delta-hotel) 
 ---
 
 ## 📊 **GitHub Stats**
