@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 👋 EMMANUEL   WANJALA</h1>
+<h1 align="center">Hi there👋, I'm EMMANUEL   WANJALA</h1>
 <h3 align="center">🚀 Software Engineering Student | Front-End Developer | UI/UX Enthusiast</h3>
 
 🌟 Passionate about crafting seamless, interactive, and visually appealing  responsive web experiences.  
@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 **Projects & Work**
-💼 **Delta Hotel Management System** – A full-stack hotel booking system with PHP & MySQL  
+💼 **Delta Hotel Management System** – A full-stack hotel booking system with PHP ,Bootstrap & MySQL  
 🎨 **Interactive Portfolio Website** – Showcasing my UI/UX and front-end projects  
 ⚡ **More cool projects coming soon...**  
 
