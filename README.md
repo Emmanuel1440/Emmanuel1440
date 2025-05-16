@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 🛠️ **Tech Stack & Skills**
 🔹 **Languages:** JavaScript (ES6+), PHP, HTML, CSS/SASS  
 🔹 **Front-End:** React.js, Bootstrap, TailwindCSS, UI/UX Design  
