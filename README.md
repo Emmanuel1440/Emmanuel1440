@@ -23,7 +23,7 @@
 ⚡ **More cool projects coming soon...**  
 
 Check out my repositories! 📂  
- [View my projects ](https://github.com/Emmanuel1440/Delta_hotel) 
+ [View my projects ](https://emmanuel1440.github.io/my-portfolio/) 
 ---A hotel management system built with **PHP, MySQL
 
 ## 📊 **GitHub Stats**
