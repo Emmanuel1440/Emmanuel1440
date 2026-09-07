@@ -36,7 +36,7 @@ Check out my repositories! 📂
 
 ## 📫 **Let's Connect & Collaborate**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-wanjala-51a6112b6)  
-[![Portfolio](https://emmanuel1440.github.io/my-portfolio/)  
+Portfolio (https://emmanuel1440.github.io/my-portfolio/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmanuel1440)  
 
 ---
